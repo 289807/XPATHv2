@@ -1,0 +1,7 @@
+echo "# XPATHv2" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/289807/XPATHv2.git
+git push -u origin master
+                
